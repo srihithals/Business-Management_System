@@ -1,0 +1,1 @@
+This is a simple web-based Business Management System built using HTML, CSS, and JavaScript that provides modular features for employee, finance, inventory, sales, client, analytics, and admin management with responsive design and interactive components.
